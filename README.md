@@ -1,7 +1,7 @@
 # Full M-Pesa Daraja API with PHP
 
 Author: Halima Murunga
-Description: Mpesa Daraja API with Node JS
+Description: Mpesa Daraja API 
 Date: 12/02/2024
 Phone: +25479716448
 

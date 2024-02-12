@@ -33,6 +33,6 @@ For detailed documentation on the M-Pesa Daraja API and its various endpoints, p
 
 If you have any questions, feedback, or need assistance with this project, feel free to reach out to me on WhatsApp at +254 113 014 574. I'll be happy to help you with any queries you may have.
 
-To support and contribute to the development of this project, you can make a donation to the M-Pesa TILL Number 5926541 under the name "UMESKIA SOFTWARES". Your contribution will help maintain and improve this project for the benefit of the developer community.
+
 
 Thank you for your interest and support in this M-Pesa Daraja API implementation with PHP. Let's empower our applications with the seamless payment capabilities of M-Pesa!

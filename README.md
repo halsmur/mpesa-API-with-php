@@ -1,12 +1,9 @@
 # Full M-Pesa Daraja API with PHP
 
-Author: Alvin Kiveu
+Author: Halima Murunga
 Description: Mpesa Daraja API with Node JS
-Date: 23/10/2023
-Github Link: https://github.com/alvin-kiveu/Mpesa-Daraja-Api-NODE.JS.git
-Website: www.umeskiasoftwares.com
-Email: info@umeskiasoftwares.com
-Phone: +254113015674
+Date: 12/02/2024
+Phone: +25479716448
 
 
 Welcome to the complete implementation of the M-Pesa Daraja API using PHP. This project aims to provide you with a comprehensive guide and code examples to seamlessly integrate the M-Pesa Daraja API into your PHP applications.
@@ -30,10 +27,7 @@ Customize and integrate the API calls into your own PHP application as needed.
 ## Documentation
 For detailed documentation on the M-Pesa Daraja API and its various endpoints, please refer to the official Safaricom Developer Portal. The documentation will provide you with the necessary information on request parameters, response formats, authentication, and more.
 
-## YouTube Playlist
-If you prefer a visual walkthrough of the implementation, you can check out the YouTube playlist created for this project. The playlist includes step-by-step tutorials and demonstrations of how to use the M-Pesa Daraja API with PHP.
 
-<a href='https://www.youtube.com/playlist?list=PLL9VrPrscsUZKT6177_t3K7908wsMAoQs'> Click here to access the YouTube playlist.</a>
 
 ## Support and Contributions
 
